@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "NodeNext",
+    "moduleResolution": "node",
     "strict": true,
     "verbatimModuleSyntax": true,
     "skipLibCheck": true,
@@ -9,6 +10,7 @@
       "node"
     ],
     "jsx": "react-jsx",
-    "jsxImportSource": "hono/jsx",
+    "forceConsistentCasingInFileNames": true,
+    "jsxImportSource": "hono/jsx"
   }
 }

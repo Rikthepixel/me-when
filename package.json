@@ -1,0 +1,8 @@
+{
+  "name": "me-when",
+  "version": "0.0.0",
+  "workspaces": [
+    "server",
+    "web"
+  ]
+}
